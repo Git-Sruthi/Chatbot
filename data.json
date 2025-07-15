@@ -1,0 +1,12 @@
+{
+  "user": {
+    "name": "Alice",
+    "email": "alice@example.com",
+    "bank_balance": 126000,
+    "portfolio": ["AAPL", "TSLA", "MSFT"]
+  },
+  "faq": {
+    "how to change password": "To change your password, go to settings > security > change password.",
+    "how to delete account": "Please visit your profile settings and click on 'Delete My Account'."
+  }
+}
